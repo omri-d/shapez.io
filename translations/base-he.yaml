@@ -1,16 +1,16 @@
 steamPage:
-    shortText: shapez.io הוא משחק בנוגע לבניית מפעלים אוטמטים ליצירה של צורת מסובכות
+    shortText: shapez.io הוא משחק בו בונים מפעלים אוטמטים ליצירה של צורת מסובכות
         יותר ויותר במפה אין סופית.
     discordLinkShort: דיסקורד רשמי
     intro: >-
-        אתה אוהב משחקי אוטומציה? אתה במקום הנכון!
+        אוהב משחקי אוטומציה? אתה במקום הנכון!
 
-        shapez.io הוא משחק שלווה שבו אתה בונה מפעל בשביל ליצור צורות גאומטריות אוטומטית. ככל שמתקדמים השלבים, הצורות נהיות יותר ויותר מסובכות, ואתה צריך להפתח על המפה האין סופית.
+        shapez.io הוא משחק שלווה שבו אתה בונה מפעל בשביל ליצור צורות גאומטריות אוטומטית. ככל שהשלבים מתקדמים, הצורות נהיות יותר ויותר מסובכות, ואתה צריך להתפתח על המפה האין סופית.
 
-        ואם זה לא היה מספיק, אתה צריך ליצור יותר ויותר צורות  בשביל לספק את הדרישה - הדבר היחיד שיכול לעזור זה להגדיל את המפעל! בזמן שבהתחלה אתה רק צריך לערוך צורות, בהמשך אתה צריך לצבוע אותם בעזרת צבעים שאתה מערבב.
+        ואם זה לא היה מספיק, בשביל לספק את הדרישה אתה צריך ליצור יותר ויותר צורות - הדבר היחיד שיכול לעזור זה להגדיל את המפעל! בזמן שבהתחלה אתה רק צריך לערוך צורות, בהמשך אתה גם צריך לצבוע אותם בעזרת צבעים שאתה תמערבב.
 
         קניית המשחק בsteam תתן לך גישה למשחק המלא, אבל אתה יכול לשחק משחק דמו בhttps://shapez.io/ ולהחליט אחר כך.
-    what_others_say: What people say about shapez.io
+    what_others_say: מה אנשים אומרים על shapez.io
     nothernlion_comment: This game is great - I'm having a wonderful time playing,
         and time has flown by.
     notch_comment: Oh crap. I really should sleep, but I think I just figured out
@@ -49,28 +49,28 @@ global:
         escape: ESC
         shift: SHIFT
         space: SPACE
-    loggingIn: Logging in
+    loggingIn: מתחבר
 demoBanners:
     title: גרסאת דמו
-    intro: תשיג את המשחק המלא כדי לפתוח את כל הפיצ'רים
+    intro: השג את המשחק המלא כדי לפתוח את כל הפיצ'רים
 mainMenu:
     play: שחק
     continue: המשך
     newGame: משחק חדש
     changelog: עדכונים
     subreddit: רדיט
-    importSavegame: יבוא
-    openSourceHint: המשחק הזה הוא עם קוד פתוח!
+    importSavegame:  יבא משחק שמור
+    openSourceHint: המשחק הזה הוא בקוד פתוח!
     discordLink: שרת הדסקורד הרשמי
     helpTranslate: תעזור לתרגם!
     madeBy: <author-link> :יוצר המשחק
-    browserWarning: מצטערים, אבל המשחק רק באיטיות על הדפדפן שלך! תשיג את הגרסא
-        להורדה או שתוריד גוגל לחוויה המלאה.
+    browserWarning: מצטערים, אבל המשחק רץ באיטיות על הדפדפן שלך! השג את הגרסא
+        להורדה או שתוריד גוגל כרום לחוויה המלאה.
     savegameLevel: שלב <x>
     savegameLevelUnknown: שלב לא ידוע
     savegameUnnamed: ללא שם
     puzzleMode: Puzzle Mode
-    back: Back
+    back: חזור
     puzzleDlcText: Do you enjoy compacting and optimizing factories? Get the Puzzle
         DLC now on Steam for even more fun!
     puzzleDlcWishlist: Wishlist now!
@@ -87,9 +87,9 @@ dialogs:
         deleteGame: אני יודע מה אני עושה
         viewUpdate: צפה בעדכון
         showUpgrades: הצג שדרוגים
-        showKeybindings: הצג מקשים
-        retry: Retry
-        continue: Continue
+        showKeybindings: הצג קיצורי מקשים
+        retry: נסה שוב
+        continue: המשך
         playOffline: Play Offline
     importSavegameError:
         title: שגיאה ביבוא
